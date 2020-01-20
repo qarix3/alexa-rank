@@ -29,4 +29,10 @@ s^2 = (\frac{b-a}{6})^2\\
 \text{The probability that project will be completed within 42 weeks}\\
 
 P(X \leq x) = P(Z \leq (x - \mu)/\sigma)
+
+x = \frac{\text{new duration-total duration}}{variance}
 $$
+
+**tips: dapat nombor bulat pergi tngok table**
+
+![alt text](/assets/pert.jpg)

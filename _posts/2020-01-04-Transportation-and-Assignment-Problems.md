@@ -22,5 +22,4 @@ I_{12} = c_{12} - R_1 - K_2 = 8 - 0 - 7 = 1 \\
 
 TC = \sum(\text{allocation cell }\times \text{price})
 $$
-
-***tips: 
+ 

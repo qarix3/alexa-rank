@@ -115,3 +115,6 @@ EVPI = EP_{with}PI - EP{without}PI = \sum_{i=1}^k P_im_i - max(EMV)
 $$
 
 ***tips: cari highest kat table EMV pastu tambah semua column yg highest***
+
+![alt text](/assets/tree.jpg)
+

@@ -29,6 +29,11 @@ The other constrains,
 Thus, the LP model may be written as:
 
 $$
+\text{Intercept}\\
+(x_1,x_2);(x_1,x_2)\\
+(x_1,x_2);(x_1,x_2)\\
+(x_1,x_2);(x_1,x_2)\\
+
 \begin{alignat}{5}
 \max \quad & z = & 30x_1  & + & 45x_2  &&&&& \\
 \mbox{s.t.} \quad && 2x_1 & + & 5x_2 & + && \geq 100  &&\\

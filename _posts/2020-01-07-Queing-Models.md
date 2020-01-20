@@ -9,17 +9,20 @@ L = \text{average number in the system} \\
 L_q= \text{average number in the queue} \\
 W = \text{average waiting time in the system} \\
 W_q = \text{average waiting time in the queue} \\
-P_0 = \text{ideal} \\
+P_0 = \text{if the system is idle} \\
+P_b =\text{server in the system is busy} \\
+p =\text{mean number of customers in service} \\
+\lambda = \text{number of arrivals per time period} \\
+\mu = \text{to be the mean (or average) number of customers served per time period} \\
+$$
 
-\lambda W \text{and}L_q = \lambda W_q 
+**Example:**
 
-
-mean arrival rate, \lambda = 10\text{customer/hour}\\
-
-mean service rate, \mu = \\
+$$
+\text{mean arrival rate}, \lambda = 10 customer/hour\\
+\text{mean service rate}, \mu = \\
 
 P_0 = 1 - \frac{\lambda}{\mu} \\
-
 
 \lambda = 4/min \\
 \mu = 5/min \\

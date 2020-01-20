@@ -8,13 +8,13 @@ $$
 \text{Number of order made in a year = (anual demand)/(reorder quatity)} = D/Q \\
 \text{Total ordering cost for one year} = C_o \times \text{(number of orders)} = C_oD/Q \\
 \text{Maximum inventory level}= I_m = Q\\
-The inventory cycle time = Q/D (in years)\\
-The average inventory level = (minimum level + maximum level)/2 = (0 + Q)/2 = Q/2\\
-Total holding cost for one year = C_h \times (average inventory) = C_hQ/2\\
-Total cost of having stock (T) for one year = C_oD/Q + C_hQ/2\\
+\text{The inventory cycle tim} = Q/D (in years)\\
+\text{The average inventory level = (minimum level + maximum level)/2 }= (0 + Q)/2 = Q/2\\
+\text{Total holding cost for one year} = C_h \times \text{(average inventory)} = C_hQ/2\\
+\text{Total cost of having stock (T) for one year} = C_oD/Q + C_hQ/2\\
 
 lead time = delivery time = reorder point \\
-ROP = (\text{demand per day or week}) \times (lead time for an order in days or weeks) = D X L\\
+ROP = (\text{demand per day or week}) \times (lead time for an order in days or weeks) = D \times L\\
 
 
 D = \text{ demand forecast in units for a given period} \\
@@ -22,6 +22,11 @@ C_o = \text{cost of making one order} \\
 C_h = \text{holding cost per unit of average stock over the same period}\\
 Q = \text{the order quantity} \\
 
+$$
+
+**Example:**
+
+$$
 \text{Demand rate}, D = 1500 boxes/year \\
 \text{Purchase cost}, C = RM 3.50/unit \\
 \text{Holding cost}, Ch = 0.25 \\

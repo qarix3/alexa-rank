@@ -1,3 +1,3 @@
-# jekyll-true-minimal
-Minimal and ascetic theme for jekyll.
-Live demo: https://cyevgeniy.github.io/jekyll-true-minimal/
+# Alexa Ranking
+
+Get 1 million website ranking from alexa.com
